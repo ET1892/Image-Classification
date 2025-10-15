@@ -25,7 +25,4 @@ This project focuses on classifying images from the CIFAR10 dataset using a Conv
 - Analysing misclassifications helps refine model design and training strategies.
 - Future improvements could include deeper networks, data augmentation, and advanced regularisation techniques.
 
-**Repository:**  
-- [GitHub Link](https://github.com/ET1892/CIFAR10-Classification)
-
 This project demonstrates the process of training and evaluating a CNN on a real-world image classification dataset and visualising the results for insight and analysis.
